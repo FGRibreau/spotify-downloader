@@ -1,7 +1,10 @@
-spotify-downloader
+Spotify-Downloader
 ==================
 
 A proof-of-concept that transforms a Spotify playlist to a direct-download list.
+
+**I accept pull requests**. If someone would like to add a web-interface to Spotify-downloader
+I'll be more than happy to accept the merge.
 
 Usage
 -----
@@ -19,7 +22,6 @@ Disclaimer
 * It's a simpley mashup, Spotify-downloader does nothing else that making a bridge between the Spotify Web API and FilesTube API.
 * Please don't download content that you don't have a legal right to.
 * If you believe I'm infringing your intellectual property somehow, please send me a proper DMCA Notice to abuse[***_at_***]fgribreau.com
-
 
 Licence
 -------
