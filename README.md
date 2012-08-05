@@ -6,7 +6,8 @@ A proof-of-concept that transforms a Spotify playlist to a direct-download list.
 Usage
 -----
 
-* Drap & drop tracks from Spotify into a text file (e.g. playlist.txt ) 
+* `npm install spotify-downloader`
+* Drap & drop tracks from Spotify into a text file (e.g. playlist.txt )
 * Edit `./bin/spotify-downloader` and replace the `key`'s value by your own [FilesTube API key](http://www.filestube.com/api.html)
 * Run `cat playlist.txt | ./bin/spotify-downloader`
 * Done.
