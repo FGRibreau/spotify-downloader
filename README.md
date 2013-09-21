@@ -23,6 +23,9 @@ Disclaimer
 * Please don't download content that you don't have a legal right to.
 * If you believe I'm infringing your intellectual property somehow, please send me a proper DMCA Notice to abuse[***_at_***]fgribreau.com
 
+## Donate
+[Donate Bitcoins](https://coinbase.com/checkouts/fc3041b9d8116e0b98e7d243c4727a30)
+
 Licence
 -------
 
