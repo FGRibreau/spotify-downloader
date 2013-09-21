@@ -1,4 +1,4 @@
-Spotify-Downloader
+Spotify-Downloader [![Gittip](http://badgr.co/gittip/fgribreau.png)](https://www.gittip.com/fgribreau/)
 ==================
 
 A proof-of-concept that transforms a Spotify playlist to a direct-download list.
